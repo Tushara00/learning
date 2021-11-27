@@ -297,7 +297,7 @@ Z-index: 1;
  }
  @media only screen and (max-width:770px){
      #header{
-         
+         background-image: none;
      }
      .container{
         margin: 50px ;
